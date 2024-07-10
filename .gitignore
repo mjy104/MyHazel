@@ -4,3 +4,5 @@ bin-int/
 sandbox/x64
 
 *.user
+*.vcxproj
+*.vcxproj.filters
